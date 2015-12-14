@@ -4,7 +4,7 @@
 RootModule = 'TSDTabCompletion.psm1'
 
 # Version number of this module.
-ModuleVersion = '1.0'
+ModuleVersion = '1.1'
 
 # ID used to uniquely identify this module
 GUID = '670c3c0e-22e5-41e5-ad86-4a199c1828df'
@@ -19,7 +19,7 @@ CompanyName = 'Doug Finke'
 Copyright = 'c 2015 All rights reserved.'
 
 # Description of the functionality provided by this module
-Description = 'Enables tab completion for npm commands'
+Description = 'Enables tab completion for tsd commands'
 
 # Minimum version of the Windows PowerShell engine required by this module
 # PowerShellVersion = ''
